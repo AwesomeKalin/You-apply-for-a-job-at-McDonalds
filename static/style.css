@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Rubik Gemstones', cursive;
+  text-align: center;
+  color: #E5E433;
+  font-size: 200%;
+}
+
+body {
+  background: #3E3E38;
+}
+
+button {
+  background: #833932;
+  border-radius: 11px;
+  padding: 20px 45px;
+  color:  #e5e433;
+  display: inline-block;
+  font: normal bold 26px/1 'East Sea Dokdo', cursive;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+}
