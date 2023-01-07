@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-node": "^1.1.0"
+		"@sveltejs/adapter-node": "^1.1.0",
+		"ethers": "^5.7.2"
 	}
 }
